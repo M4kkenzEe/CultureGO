@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">URWelcome</string>
+    <string name="app_label_name">CultureGO</string>
+    <string name="app_label_second">culture in \nyour\n smartphone</string>
+    <string name="registration">Registration</string>
+    <string name="have_acc">Do you already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="loginig">Вход</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>
